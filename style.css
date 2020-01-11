@@ -1,0 +1,50 @@
+.calculate{
+
+	height: 340px;
+	width: 280px;
+	background-color: #c8faae;
+
+	margin: 0 auto;
+	margin-top: 50px;
+	padding: 10px;
+	border: 1px solid #777;
+
+}
+
+.main-bar{
+
+	margin-bottom: 20px;
+	text-align: right;
+
+}
+
+.btn{
+
+	cursor: pointer;
+	width: 61px;
+	font-size: 20px;
+
+}
+
+.line{
+
+	margin-bottom: 10px;
+}
+
+.last input {
+
+
+	width:126px;
+}
+
+input.from-contol.main-bar {
+    width: 100%;
+}
+
+
+#inp{
+
+
+	font-size: 23px;
+	font-weight: bold;
+}
